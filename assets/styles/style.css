@@ -1,0 +1,71 @@
+body{
+    background: #2c3e50;
+
+    font-family: 'Lobster', cursive;
+
+}
+#myheader{
+    height: 60px;
+    background:linear-gradient(#3498db,#2980b9);
+}
+#myheader div p{
+    margin-left: 5%;
+    font-size: 40px;
+    color:white;
+}
+#mysection{
+
+    //height: 600px;
+    color:#D8D8D8;
+    font-size: 1.5em;
+    
+}
+#mysidebar{
+
+    background: #045FB4;
+    min-height: 623px;
+    text-align: center;
+}
+#mysidebar ul{
+    list-style: none;
+    margin-top:10px;
+}
+#mysidebar ul li{
+    margin-bottom:2px;
+}
+#mysidebar ul li a{
+    display: block;
+    background:#084B8A;
+    text-decoration: none;
+    font-size: 1.5em;
+    height:50px;
+    text-align: center;
+    color:white;
+    border-radius: 1em;
+}
+#mysidebar ul li a:hover{
+
+    background: #2c3e50;
+
+
+
+}
+#mycontent{
+   // background:#245269;
+   // height: 600px;
+   // overflow-y: auto;
+}
+#myfooter{
+    height:40px;
+    background: #e74c3c;
+}
+
+#pankaj_image{
+   // height: 80%;
+   width:90%;
+}
+
+#smartlbl{
+    padding:5px;
+    background:rgba(64,64,64,0.3);
+}
